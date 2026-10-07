@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="darker_gray">#121212</color>
+    <color name="heading_yellow">#dfb228</color>
+
+    <!-- Command button colors: HOLD=red, MOVE=green, PING=blue, ABORT=orange -->
+    <color name="cmd_hold">#CC3333</color>
+    <color name="cmd_move">#33AA33</color>
+    <color name="cmd_ping">#3366CC</color>
+    <color name="cmd_abort">#CC7700</color>
+
+</resources>

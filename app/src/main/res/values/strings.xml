@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Dragon</string>
+    <!-- description -->
+    <string name="app_desc">ActiveLook HUD plugin for ATAK</string>
+
+
+
+
+</resources>
